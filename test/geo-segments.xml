@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<dataset>
+<results>33</results>
+<segment id="1" typ="PARADA" fro="2012/01/13 02:39:01" to="2012/01/13 09:12:28" tim=" 06 hs 33 min" sec="23607" kms="0.00" lat="-25.2971830032258" lon="-57.5624811548387" add="%3Cb%3ESKY%20COP%20PARAGUAY%20S%2EA%2E%3C%2Fb%3E,%204%20DE%20JULIO%20Y%20CAP%20CESAREO%20DENIS%20ROA,%20Barrio%20SAN%20CRISTOBAL,%20CIUDAD%20DE%20ASUNCION" />
+<segment id="2" typ="MOVIMIENTO" fro="2012/01/13 09:12:28" to="2012/01/13 09:28:35" tim=" 00 hs 16 min" sec="967" kms="4.276" lat="" lon="" add="" />
+<segment id="3" typ="PARADA" fro="2012/01/13 09:28:35" to="2012/01/13 09:46:10" tim=" 00 hs 17 min" sec="1055" kms="0.00" lat="-25.2971557826087" lon="-57.5625466956522" add="%3Cb%3ESKY%20COP%20PARAGUAY%20S%2EA%2E%3C%2Fb%3E,%20CAP%20CESAREO%20DENIS%20ROA%20Y%204%20DE%20JULIO,%20Barrio%20SAN%20CRISTOBAL,%20CIUDAD%20DE%20ASUNCION" />
+<segment id="4" typ="MOVIMIENTO" fro="2012/01/13 09:46:10" to="2012/01/13 09:59:03" tim=" 00 hs 12 min" sec="773" kms="2.575" lat="" lon="" add="" />
+<segment id="5" typ="PARADA" fro="2012/01/13 09:59:03" to="2012/01/13 10:12:01" tim=" 00 hs 12 min" sec="778" kms="0.00" lat="-25.2857907285714" lon="-57.5701976285714" add="%3Cb%3EBANCO%20AMAMBAY%3C%2Fb%3E,%20AVDA%20AVIADORES%20DEL%20CHACO%20Y%20PINTOR%20PABLO%20ALBORNO,%20Barrio%20YCUA%20SATI,%20CIUDAD%20DE%20ASUNCION" />
+<segment id="6" typ="MOVIMIENTO" fro="2012/01/13 10:12:01" to="2012/01/13 10:17:00" tim=" 00 hs 04 min" sec="299" kms="1.566" lat="" lon="" add="" />
+<segment id="7" typ="PARADA" fro="2012/01/13 10:17:00" to="2012/01/13 10:29:22" tim=" 00 hs 12 min" sec="742" kms="0.00" lat="-25.28451672" lon="-57.5855684" add="DR%20ANTONIO%20BESTARD%20Y%20PROF%20DR%20FRANCISCO%20CHAVES,%20Barrio%20SANTO%20DOMINGO,%20CIUDAD%20DE%20ASUNCION" />
+<segment id="8" typ="MOVIMIENTO" fro="2012/01/13 10:29:22" to="2012/01/13 10:33:22" tim=" 00 hs 04 min" sec="240" kms=".756" lat="" lon="" add="" />
+<segment id="9" typ="PARADA" fro="2012/01/13 10:33:22" to="2012/01/13 10:43:54" tim=" 00 hs 10 min" sec="632" kms="0.00" lat="-25.2907083333333" lon="-57.5874527666667" add="AVDA%20MARISCAL%20LOPEZ%20Y%20ELISEO%20RECLUS,%20Barrio%20VILLA%20MORRA,%20CIUDAD%20DE%20ASUNCION" />
+<segment id="10" typ="MOVIMIENTO" fro="2012/01/13 10:43:54" to="2012/01/13 11:02:00" tim=" 00 hs 18 min" sec="1086" kms="5.127" lat="" lon="" add="" />
+<segment id="11" typ="PARADA" fro="2012/01/13 11:02:00" to="2012/01/13 11:16:04" tim=" 00 hs 14 min" sec="844" kms="0.00" lat="-25.2883782571429" lon="-57.6335235428571" add="MEXICO%20Y%20DR%20FULGENCIO%20R%20MORENO,%20Barrio%20LA%20CATEDRAL,%20CIUDAD%20DE%20ASUNCION" />
+<segment id="12" typ="MOVIMIENTO" fro="2012/01/13 11:16:04" to="2012/01/13 11:20:44" tim=" 00 hs 04 min" sec="280" kms="1.907" lat="" lon="" add="" />
+<segment id="13" typ="PARADA" fro="2012/01/13 11:20:44" to="2012/01/13 11:35:32" tim=" 00 hs 14 min" sec="888" kms="0.00" lat="-25.27657715" lon="-57.64051015" add="%3Cb%3EASTILLERO%20CARGOLINE%20DEL%20DR%2E%20ABRAAN%20ZAPAG%3C%2Fb%3E,%20STELLA%20MARIS%20Y%20AVDA%20STELLA%20MARIS,%20Barrio%20DR%2E%20GASPAR%20RODRIGUEZ%20DE%20FRANCIA,%20CIUDAD%20DE%20ASUNCION" />
+<segment id="14" typ="MOVIMIENTO" fro="2012/01/13 11:35:32" to="2012/01/13 11:48:47" tim=" 00 hs 13 min" sec="795" kms="4.728" lat="" lon="" add="" />
+<segment id="15" typ="PARADA" fro="2012/01/13 11:48:47" to="2012/01/13 11:59:35" tim=" 00 hs 10 min" sec="648" kms="0.00" lat="-25.2703119166667" lon="-57.6027316" add="ALTOS%20Y%20AVDA%20GRAL%20JOSE%20G%20ARTIGAS,%20Barrio%20JARA,%20CIUDAD%20DE%20ASUNCION" />
+<segment id="16" typ="MOVIMIENTO" fro="2012/01/13 11:59:35" to="2012/01/13 12:11:52" tim=" 00 hs 12 min" sec="737" kms="5.499" lat="" lon="" add="" />
+<segment id="17" typ="PARADA" fro="2012/01/13 12:11:52" to="2012/01/13 12:29:01" tim=" 00 hs 17 min" sec="1029" kms="0.00" lat="-25.3069343277778" lon="-57.5900495111111" add="JOSE%20MARTI%20Y%20PADRE%20BUENAVENTURA%20SUAREZ,%20Barrio%20TEMBETARY,%20CIUDAD%20DE%20ASUNCION" />
+<segment id="18" typ="MOVIMIENTO" fro="2012/01/13 12:29:01" to="2012/01/13 12:35:21" tim=" 00 hs 06 min" sec="380" kms="3.31" lat="" lon="" add="" />
+<segment id="19" typ="PARADA" fro="2012/01/13 12:35:21" to="2012/01/13 12:53:24" tim=" 00 hs 18 min" sec="1083" kms="0.00" lat="-25.2857970833333" lon="-57.5700079666667" add="%3Cb%3EBANCO%20AMAMBAY%3C%2Fb%3E,%20AVDA%20AVIADORES%20DEL%20CHACO%20Y%20DR%20EDUARDO%20LOPEZ%20MOREIRA,%20Barrio%20YCUA%20SATI,%20CIUDAD%20DE%20ASUNCION" />
+<segment id="20" typ="MOVIMIENTO" fro="2012/01/13 12:53:24" to="2012/01/13 12:53:55" tim=" 00 hs 00 min" sec="31" kms="1.536" lat="" lon="" add="" />
+<segment id="21" typ="PARADA" fro="2012/01/13 12:53:55" to="2012/01/13 13:49:22" tim=" 00 hs 55 min" sec="3327" kms="0.00" lat="-25.2970834333333" lon="-57.5626607111111" add="%3Cb%3ESKY%20COP%20PARAGUAY%20S%2EA%2E%3C%2Fb%3E,%20CAP%20CESAREO%20DENIS%20ROA%20Y%204%20DE%20JULIO,%20Barrio%20SAN%20CRISTOBAL,%20CIUDAD%20DE%20ASUNCION" />
+<segment id="22" typ="MOVIMIENTO" fro="2012/01/13 13:49:22" to="2012/01/13 14:29:12" tim=" 00 hs 39 min" sec="2390" kms="10.609" lat="" lon="" add="" />
+<segment id="23" typ="PARADA" fro="2012/01/13 14:29:12" to="2012/01/13 14:39:12" tim=" 00 hs 10 min" sec="600" kms="0.00" lat="-25.3045418" lon="-57.64751956" add="FULGENCIO%20YEGROS%20Y%20PYKYSYRY,%20Barrio%20OBRERO,%20CIUDAD%20DE%20ASUNCION" />
+<segment id="24" typ="MOVIMIENTO" fro="2012/01/13 14:39:12" to="2012/01/13 14:52:05" tim=" 00 hs 12 min" sec="773" kms="4.631" lat="" lon="" add="" />
+<segment id="25" typ="PARADA" fro="2012/01/13 14:52:05" to="2012/01/13 15:07:04" tim=" 00 hs 14 min" sec="899" kms="0.00" lat="-25.2852026875" lon="-57.6140047875" add="PDTE%20GRAL%20JORGE%20WASHINGTON%20Y%20CAP%20JUAN%20DE%20SALAZAR%20Y%20ESPINOZA,%20Barrio%20LAS%20MERCEDES,%20CIUDAD%20DE%20ASUNCION" />
+<segment id="26" typ="MOVIMIENTO" fro="2012/01/13 15:07:04" to="2012/01/13 15:09:22" tim=" 00 hs 02 min" sec="138" kms=".688" lat="" lon="" add="" />
+<segment id="27" typ="PARADA" fro="2012/01/13 15:09:22" to="2012/01/13 16:09:17" tim=" 00 hs 59 min" sec="3595" kms="0.00" lat="-25.2901786388889" lon="-57.6142558583333" add="JOSE%20BERGES%20Y%20DON%20JUAN%20MANUEL%20FRUTOS%20PANE,%20Barrio%20LAS%20MERCEDES,%20CIUDAD%20DE%20ASUNCION" />
+<segment id="28" typ="MOVIMIENTO" fro="2012/01/13 16:09:17" to="2012/01/13 16:34:27" tim=" 00 hs 25 min" sec="1510" kms="9.737" lat="" lon="" add="" />
+<segment id="29" typ="PARADA" fro="2012/01/13 16:34:27" to="2012/01/13 17:15:58" tim=" 00 hs 41 min" sec="2491" kms="0.00" lat="-25.2583004266667" lon="-57.5867862733333" add="AVDA%20GRAL%20JOSE%20G%20ARTIGAS%20Y%20SGTO%20SERGIO%20MARTINEZ,%20Barrio%20VIRGEN%20DE%20FATIMA,%20CIUDAD%20DE%20ASUNCION" />
+<segment id="30" typ="MOVIMIENTO" fro="2012/01/13 17:15:58" to="2012/01/13 17:18:40" tim=" 00 hs 02 min" sec="162" kms="1.315" lat="" lon="" add="" />
+<segment id="31" typ="PARADA" fro="2012/01/13 17:18:40" to="2012/01/13 17:28:17" tim=" 00 hs 09 min" sec="577" kms="0.00" lat="-25.2670957642857" lon="-57.5827458857143" add="%3Cb%3EEST%2E%20SERV%20B%26R%20%28SACRAMENTO%29%3C%2Fb%3E,%20AVDA%20SANTISIMO%20SACRAMENTO%20Y%20CAP%20FRANCISCO%20MONTANARO,%20Barrio%20CA%D1ADA%20DEL%20YBYRAY,%20CIUDAD%20DE%20ASUNCION" />
+<segment id="32" typ="MOVIMIENTO" fro="2012/01/13 17:28:17" to="2012/01/13 17:50:21" tim=" 00 hs 22 min" sec="1324" kms="4.93" lat="" lon="" add="" />
+<segment id="33" typ="PARADA" fro="2012/01/13 17:50:21" to="2012/01/13 22:38:04" tim=" 04 hs 47 min" sec="17263" kms="0.00" lat="-25.297287854902" lon="-57.5624998176471" add="%3Cb%3ESKY%20COP%20PARAGUAY%20S%2EA%2E%3C%2Fb%3E,%204%20DE%20JULIO%20Y%20CAP%20CESAREO%20DENIS%20ROA,%20Barrio%20SAN%20CRISTOBAL,%20CIUDAD%20DE%20ASUNCION" />
+
+</dataset>

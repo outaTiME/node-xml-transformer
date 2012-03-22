@@ -1,0 +1,31 @@
+{
+  "name": "xml-transformer",
+  "version": "0.0.1",
+  "description": "Simple transformer form XML files.",
+  "homepage": "http://github.com/outaTiME/node-xml-transformer.git",
+  "description": "Javascript platform definition for the skyweb project.",
+  "keywords": ["xml", "transformer", "json", "hogan", "mustache", "cli"],
+  "author": "outaTiME <afalduto@gmail.com> (http://outatime.tumblr.com)",
+  "licenses": [{
+    "type": "Apache-2.0",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/outaTiME/node-xml-transformer.git"
+  },
+  "bin": {
+    "xml-transformer": "./bin/xml-transformer"
+  },
+  "main": "lib/transformer",
+  "dependencies": {
+    "commander": ">=0.5.2",
+    "xml2js": ">=0.1.13",
+    "hogan.js": ">=2.0.0",
+    "colors": ">=0.6.0-1"
+  },
+  "engines": {
+    "node": ">=0.6.6"
+  },
+  "preferGlobal": true
+}

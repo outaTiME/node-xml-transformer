@@ -1,0 +1,6 @@
+_=fro:String,to:Integer,tim:Integer,sec:Integer,kms:Integer,add:Integer,coord:Geometry:srid=4326
+{{#segment}}
+{{#@.typ}}
+segmento.{{@.id}}={{@.typ}}|{{@.fro}}|{{@.to}}|{{@.tim}}|{{@.sec}}|{{@.kms}}|{{@.add}}|POINT({{@.lon}} {{@.lat}})
+{{/@.typ}}
+{{/segment}}

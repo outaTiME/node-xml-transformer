@@ -1,0 +1,4 @@
+_=dtm:DateTime,evn:String,hea:Integer,src:Integer,age:Integer,spd:Integer,coord:Geometry:srid=4326
+{{#position}}
+position.{{@.id}}={{@.dtm}}|{{@.evn}}|{{@.hea}}|{{@.src}}|{{@.age}}|{{@.spd}}|POINT({{@.lon}} {{@.lat}})
+{{/position}}

@@ -1,0 +1,71 @@
+#!/usr/bin/env node
+
+/*
+ *  Copyright 2012 outaTiME.
+ *  Licensed under the Apache License, Version 2.0 (the "License");
+ *  you may not use this file except in compliance with the License.
+ *  You may obtain a copy of the License at
+ *
+ *  http://www.apache.org/licenses/LICENSE-2.0
+ *
+ *  Unless required by applicable law or agreed to in writing, software
+ *  distributed under the License is distributed on an "AS IS" BASIS,
+ *  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ *  See the License for the specific language governing permissions and
+ *  limitations under the License.
+ */
+
+var
+  transformer = require('../lib/transformer.js'),
+  program = require('commander'),
+  util = require("util"),
+  colors = require("colors");
+
+program
+  .version('0.0.1')
+  .option('-s, --style [file]', 'style template to apply to XML (default generate a simple JSON from XML)')
+  .option('-o, --output [file]', 'output file name, if none will be output at stdout')
+  .usage('[options] <xml file>');
+
+program.on('--help', function(){
+  console.log('  Examples:');
+  console.log('');
+  console.log('    $ xml-transformer test/geo-positions.xml');
+  console.log('    $ xml-transformer -o output.json test/geo-positions.xml');
+  console.log('');
+});
+
+program.parse(process.argv);
+
+// events
+
+transformer.on("error", function(err) {
+  util.puts("");
+  util.puts(err.message.red);
+  util.puts("");
+});
+
+transformer.on("with-template", function(filename, template) {
+  util.puts("");
+  util.puts(("Using template: " + filename).yellow);
+});
+
+transformer.on("without-template", function() {
+  util.puts("");
+  util.puts(("No template found, using raw data.").yellow);
+});
+
+transformer.on("save", function(filename, data) {
+  util.puts(("File saved at: " + filename).green);
+  util.puts("");
+});
+
+transformer.on("output", function(data) {
+  util.puts("");
+  util.puts(data);
+  util.puts("");
+});
+
+// transform
+
+transformer.transform(program.args[0], program.output, program.style);
