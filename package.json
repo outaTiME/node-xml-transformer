@@ -1,6 +1,6 @@
 {
   "name": "xml-transformer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple transformer form XML files.",
   "homepage": "http://github.com/outaTiME/node-xml-transformer",
   "keywords": ["xml", "transformer", "json", "hogan", "mustache", "cli"],
