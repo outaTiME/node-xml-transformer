@@ -7,7 +7,7 @@ Yup, im a reeeally easy XML transformer for node.
 Using npm:
 
 ```
-$ npm -g install xml-transformer
+$ npm install -g xml-transformer
 ```
 
 ## Basics
