@@ -1,9 +1,9 @@
 {
   "name": "xml-transformer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple transformer form XML files.",
   "homepage": "http://github.com/outaTiME/node-xml-transformer",
-  "keywords": ["xml", "transformer", "json", "hogan", "mustache", "cli"],
+  "keywords": ["xml", "transformer", "json", "ejs", "cli"],
   "author": "outaTiME <afalduto@gmail.com> (http://outatime.tumblr.com)",
   "licenses": [{
     "type": "Apache-2.0",
@@ -20,8 +20,8 @@
   "dependencies": {
     "commander": ">=0.5.2",
     "xml2js": ">=0.1.13",
-    "hogan.js": ">=2.0.0",
-    "colors": ">=0.6.0-1"
+    "colors": ">=0.6.0-1",
+    "ejs": ">=0.7.1"
   },
   "engines": {
     "node": ">=0.6.6"

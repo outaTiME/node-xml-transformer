@@ -1,0 +1,4 @@
+_=dtm:DateTime,evn:String,hea:Integer,src:Integer,age:Integer,spd:Integer,coord:Geometry:srid=4326
+<% position.forEach(function(value) { value = value["@"]; -%>
+position.<%= value.id %>=<%= value.dtm %>|<%= value.evn %>|<%= value.hea %>|<%= value.src %>|<%= value.age %>|<%= value.spd %>|POINT(<%= value.lon %> <%= value.lat %>)
+<% }) -%>

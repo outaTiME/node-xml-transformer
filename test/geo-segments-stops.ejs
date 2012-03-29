@@ -1,0 +1,4 @@
+_=fro:String,to:Integer,tim:Integer,sec:Integer,kms:Integer,add:Integer,coord:Geometry:srid=4326
+<% segment.forEach(function(value) { value = value["@"]; if (value.typ === "PARADA") { -%>
+segmento.<%= value.id %>=<%= value.typ %>|<%= value.fro %>|<%= value.to %>|<%= value.tim %>|<%= value.sec %>|<%= value.kms %>|<%= value.add %>|POINT(<%= value.lon %> <%= value.lat %>)
+<% }}) -%>
