@@ -1,6 +1,6 @@
 ## Node XML Transformer.
 
-Yup, im a reeeally easy XML transformer for node.
+Yay, im a reeeeeally easy XML transformer for node.
 
 ## Install
 
@@ -15,10 +15,10 @@ $ npm install -g xml-transformer
 After install globally, you must run the following command:
 
 ```
-$ xml-transformer -s [mustache template] -o [output file] <xml input file>
+$ xml-transformer -s [ejs template] -o [output file] <xml input file>
 ```
 
-then, voilà ... input file now was tranformed using ´mustache´ template specified.
+then, voilà ... input file now was tranformed using the `ejs` template specified.
 
 ## Features
 
