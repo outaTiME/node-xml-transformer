@@ -1,4 +1,4 @@
-## Node XML Transformer.
+## Node XML Transformer
 
 Yay, im a reeeeeally easy XML transformer for node.
 

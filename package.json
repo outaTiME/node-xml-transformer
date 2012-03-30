@@ -1,6 +1,6 @@
 {
   "name": "xml-transformer",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Simple transformer form XML files.",
   "homepage": "http://github.com/outaTiME/node-xml-transformer",
   "keywords": ["xml", "transformer", "json", "ejs", "cli"],
