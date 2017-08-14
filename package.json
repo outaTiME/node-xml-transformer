@@ -19,7 +19,7 @@
   "main": "lib/transformer",
   "dependencies": {
     "commander": ">=0.5.2",
-    "xml2js": ">=0.1.13",
+    "xml2js": ">=0.4.18",
     "colors": ">=0.6.0-1",
     "ejs": ">=0.7.1"
   },
