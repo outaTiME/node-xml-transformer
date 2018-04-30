@@ -20,7 +20,7 @@
   "dependencies": {
     "commander": ">=0.5.2",
     "xml2js": ">=0.1.13",
-    "colors": ">=0.6.0-1",
+    "colors": ">=1.2.3",
     "ejs": ">=0.7.1"
   },
   "engines": {
